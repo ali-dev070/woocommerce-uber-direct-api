@@ -1,0 +1,33 @@
+#woocommerce_aali_uber_direct_delivery_method_OAuth_Token_Button{
+    height: 32px;
+    width: 100px;
+}
+
+.uber-delivery-button-class::before {
+    content: "\e019";
+
+    font-family: WooCommerce;
+    text-indent: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    line-height: 16px;
+    font-size: 14px;
+    vertical-align: middle;
+    top: 4px;
+}
+
+#ilaa-setup-delivery-form td{
+    width: 400px;
+}
+
+#ilaa-delivery-setup-page{
+    display: none;
+}
+
+.notice-inner-span{
+    display: block;
+}
